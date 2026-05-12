@@ -1,0 +1,21 @@
+qid,question,question_type,material_class,source_split,options,gold_answer
+Q1,Why is titanium widely used for dental implants?,open_ended,metal,seen,,Titanium is used due to its excellent biocompatibility corrosion resistance mechanical strength and ability to osseointegrate with bone tissue.
+Q2,What are the main biomedical applications of peptide-based hydrogels?,open_ended,polymer,unseen,,Peptide hydrogels are used in drug delivery tissue engineering wound healing and regenerative medicine.
+Q3,Which property of hydroxyapatite most directly supports bone bonding?,mcq,ceramic,seen,A) Electrical conductivity|B) Bioactivity and osteoconductivity|C) Optical transparency|D) High thermal conductivity,B
+Q4,Why are composite biomaterials preferred over single-material implants?,open_ended,composite,seen,,Composites allow tailoring of mechanical and biological properties combining strength bioactivity and degradation control.
+Q5,What is a key limitation of pure hydroxyapatite in biomedical use?,short_answer,ceramic,seen,,Poor mechanical strength and brittleness.
+Q6,Why are polymers like PCL combined with hydroxyapatite?,reasoning,composite,unseen,,PCL improves flexibility and degradation while hydroxyapatite improves bioactivity and bone integration.
+Q7,What biological process allows titanium implants to integrate with bone?,short_answer,metal,seen,,Osseointegration.
+Q8,Which application is NOT suitable for biodegradable polymers?,mcq,polymer,seen,A) Drug delivery|B) Tissue scaffolds|C) Temporary implants|D) Permanent load-bearing implants,D
+Q9,How do hydroxyapatite composites improve bone regeneration?,multi_hop,ceramic,unseen,,They improve mechanical strength bioactivity and support vascularization leading to better bone regeneration.
+Q10,Why can titanium alloys cause biological issues compared to pure titanium?,reasoning,metal,seen,,They may release toxic elements such as aluminum or vanadium causing inflammation or cytotoxicity.
+Q11,Why is matching elastic modulus important in implant materials?,reasoning,general,seen,,Mismatch can cause stress shielding and poor load transfer reducing implant stability.
+Q12,If a material has high bioactivity but low strength what is a common solution?,multi_hop,composite,unseen,,Combine it with a stronger material in a composite to balance properties.
+Q13,Why is biodegradability important in some biomaterials?,open_ended,polymer,seen,,It allows materials to safely degrade in the body eliminating need for removal surgery.
+Q14,How does porosity affect biomaterial performance?,reasoning,general,unseen,,Porosity affects cell growth nutrient flow vascularization and tissue integration.
+Q15,Which material class is typically brittle but strong under compression?,mcq,ceramic,seen,A) Polymers|B) Metals|C) Ceramics|D) Hydrogels,C
+Q16,Why are hydroxyapatite coatings applied on metallic implants?,multi_hop,composite,seen,,They improve bone bonding while the metal provides strength.
+Q17,Can hydroxyapatite alone replace load-bearing implants?,unanswerable,ceramic,unseen,,Unknown
+Q18,Why is surface modification important for titanium implants?,reasoning,metal,seen,,It improves osseointegration reduces infection and enhances biological interaction.
+Q19,What trade-off exists in biodegradable polymers?,reasoning,polymer,unseen,,Higher biodegradability often reduces mechanical strength.
+Q20,Which design strategy improves both mechanical and biological performance?,mcq,composite,unseen,A) Use single material only|B) Reduce porosity completely|C) Combine materials in composites|D) Increase density only,C

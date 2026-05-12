@@ -1,0 +1,14 @@
+doc_id,filename,title,material_class,source_split,year,doc_type,notes
+D1,BiodegPolymersS.pdf,Biodegradable Polymers,polymer,seen,1998,review,Classic foundational biodegradable polymers review
+D2,BiodegradablePolymers2025U.pdf,Biodegradable Polymers Blends and Biocomposites Trends and Applications,polymer,unseen,2025,book,Recent broad source covering biodegradable polymers blends and biocomposites
+D3,HydrogelWikiS.pdf,Hydrogel,polymer,seen,2025,reference,Wikipedia style foundational overview useful for simple baseline questions
+D4,PeptideHydrogelU.pdf,Peptide Based Hydrogels Biomaterials From Synthesis to Biomedical Applications,polymer,unseen,2025,review,Recent niche hydrogel review with biomedical applications
+D5,TitaniumImplantsS.pdf,Titanium Dental Implants An Overview of Applied Nanobiotechnology to Improve Biocompatibility and Prevent Infections,metal,seen,2022,review,Popular titanium implant review likely seen by models
+D6,ImplantsSpringer2025U.pdf,A Comprehensive Review Surface Modification Strategies to Enhance Corrosion Resistance of Zirconia Based Biomaterials in Implant Applications,ceramic,unseen,2025,review,Recent implant biomaterials review focused on zirconia and corrosion resistance
+D7,HydroxyapatiteS.pdf,Hydroxyapatite in Oral Care Products A Review,ceramic,seen,2021,review,Common hydroxyapatite review with biomedical and dental relevance
+D8,HydroxyapatiteBoneTissue2025U.pdf,Application of Hydroxyapatite Composites in Bone Tissue Engineering A Review,ceramic,unseen,2025,review,Recent hydroxyapatite composite review for bone tissue engineering
+D9,BioComposite2021S.pdf,A Review on Bio Composite Materials,composite,seen,2021,review,General bio composite materials review including implant applications
+D10,HAPCLcomposites2026U.pdf,Hydroxyapatite and Polycaprolactone Composites as Potential Biomaterials in Biomedical Applications,composite,unseen,2025,review,Recent HA PCL composite review strongly useful for multi hop and reasoning questions
+D11,BiogelsU.pdf,Tough Gelatin Based Biogels for Wearable Sensors,polymer,unseen,2025,review,Recent gelatin biogel paper focused on wearable sensors mechanical toughness and biocompatibility
+D12,BiomatDesing2025U.pdf,Smart Ways of Biomaterial Designing Synthesis and Characterization,polymer|composite,unseen,2025,book,Comprehensive biomaterials book covering polymers composites hydrogels tissue engineering drug delivery implants biodegradation and characterization with partial coverage of ceramics and metals
+D13,CookbookPC2025U.pdf,Biomaterial Recipes for 3D Printing A Cookbook of Sustainable and Extrudable Bio Pastes,polymer|composite,unseen,2025,book,Recent biomaterials cookbook focused on sustainable bio based printable materials paste extrusion 3D printing biodegradable biomaterials rheology and fabrication workflows
